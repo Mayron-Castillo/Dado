@@ -22,6 +22,7 @@ body{
     border-radius: 30px;
     background: #8a8787;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border: 2px solid #434443;
 }
 
 .dice{
@@ -137,12 +138,12 @@ body{
 
 .roll{
     cursor: pointer;
-    color: #388e3c;
+    color: #878887;
     margin-top: 60px;
     padding: 6px 12px;
     border-radius: 3px;
     font-size: 16px;
-    border: 2px solid #388e3c;
+    border: 2px solid #434443;
     transition: 0.4s;
 }
 
