@@ -11,7 +11,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #bdbdbd;
+    background: #b9b6b6;
 }
 
 .container{
@@ -20,7 +20,7 @@ body{
     width: 250px;
     padding: 60px 0 40px;
     border-radius: 30px;
-    background: #eee;
+    background: #8a8787;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
